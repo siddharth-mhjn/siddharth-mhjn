@@ -18,7 +18,7 @@
 - 💡 I love designing cloud-native solutions, building service mesh ecosystems, and automating DevOps workflows.
 - 💬 Ask me about **Kubernetes, Spring Cloud, Cloud Architecture, or Istio**.
 - 📫 Reach me at: **siddharth.mhjn99@gmail.com**
-- 📄 [My Resume](https://drive.google.com/file/d/1Iq-WMMA44x5Hc3nqvUskvc1gPoXRe6A1/view)
+- 📄 [My Resume]([https://drive.google.com/file/d/1Iq-WMMA44x5Hc3nqvUskvc1gPoXRe6A1/view](https://drive.google.com/file/d/130ZKWoDPorxB-HnExiBcTIvhKsa6M6oH/view))
 
 ---
 
